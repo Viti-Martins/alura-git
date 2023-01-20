@@ -1,2 +1,2 @@
-ide-config --> git irá ignorar, não vai monitorar este arquivo
-ide/ --> o git irá ignorar esta pasta.
+ide-config
+ide/
